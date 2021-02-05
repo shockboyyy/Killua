@@ -1,0 +1,16 @@
+
+       body { background-color: #bbf1faaa}
+
+       hr {
+           width: 7%;
+
+            border-style: dotted none none;
+            border-color: gray;
+            border-width: 5px ;}
+h1 {color : #28abb9; text-shadow: 1px 1px #000000;}
+h2{color : #28abb9 ;}
+
+      .Killua:hover {
+        filter: grayscale(50%);
+      }
+  
